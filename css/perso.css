@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0;
+    background-image: url(../Perso/fond.jpg);
+}
+
+.titre{
+    font-size: 65px;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.intro{
+    margin: 30px;
+    font-size: 32px;
+    color: #f1f1f1;
+}
+
+.info{
+
+    margin-top: 50px;
+    font-size: 28px;
+    text-align: center;
+    color: #f1f1f1; 
+}
+
+.bringer{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.espace_livre{
+    position: relative;
+    left: 400px;
+    margin: 10px;
+    width: 150px;
+    height: auto;
+}
